@@ -1,2 +1,3 @@
-	name: Elijah, Anime GOD
-	markdown: kramdown
+name: Elijah, Anime GOD
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
