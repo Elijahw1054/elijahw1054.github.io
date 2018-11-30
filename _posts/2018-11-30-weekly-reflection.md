@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Reflection
+title: The God Of Highschool 
 date: 2018-11-30
 ---
 
